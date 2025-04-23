@@ -1,1 +1,1 @@
-# DeepSeek-MCP-Server
+# MCP-Servers
